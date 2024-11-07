@@ -39,7 +39,8 @@ Dummy<br>
 Fé<br>
 
 ### Beta Tester:<br>
-Arthur Marmota<br> ❤️ ![image](https://github.com/user-attachments/assets/99fb3ec6-069d-4ff0-ab6b-723143d0e98b)
+Arthur Marmota<br> ❤️ 
+![image](https://github.com/user-attachments/assets/99fb3ec6-069d-4ff0-ab6b-723143d0e98b)
 
 </p><br>
 
