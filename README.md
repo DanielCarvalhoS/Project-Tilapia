@@ -6,7 +6,7 @@
 
 ## Funções: 
 <p> 
-<h3>Programação:</h3> <br>
+<h3>Programação:</h3>
 Sacola<br>
 Gabriel<br>
 ODan<br>
