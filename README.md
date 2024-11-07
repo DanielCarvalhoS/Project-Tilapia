@@ -41,3 +41,6 @@ Fé<br>
 ### Beta Tester:<br>
 Arthur Marmota<br>
 </p><br>
+
+![image](https://github.com/user-attachments/assets/b4d1a881-2b72-42fc-8919-1de4ee76c234)
+
