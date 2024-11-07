@@ -13,14 +13,14 @@
 Sacola<br>
 Gabriel<br>
 ODan<br>
-
+--------------------------------------------------
 ### Design:<br>
 Rafamito<br>
 Miguel<br>
 ODan<br>
 Hiro<br>
 Art10<br>
-
+--------------------------------------------------
 ### História:<br>
 Miguel<br>
 Art10<br>
