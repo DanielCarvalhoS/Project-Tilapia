@@ -5,7 +5,7 @@
 ### Integrantes: Arthur Jose, Arthur Quintino, Daniel Carvalho, Rafael Pomar, Daniel Carvalho, Dummy, Gustavo Elias, Rhyan Deulavux, Miguel Retzlafo
 
 ## Funções: 
-<p>### Programação:<br>
+<p> ### Programação:<br>
 Sacola<br>
 Gabriel<br>
 ODan<br>
