@@ -1,41 +1,39 @@
 # Project-Tilapia
 
-Descriçao: O intuito desse repositorio é a logistica de troca de informações para o futuro desenvolvimento do projeto de nosso primeiro jogo: O projeto Tilapia
+## Descriçao: O intuito desse repositorio é a logistica de troca de informações para o futuro desenvolvimento do projeto de nosso primeiro jogo: O projeto Tilapia
 
-Integrantes: Arthur Jose, Arthur Quintino, Daniel Carvalho, Rafael Pomar, Daniel Carvalho, Dummy, Gustavo Elias, Rhyan Deulavux, Miguel Retzlafo
+## Integrantes: Arthur Jose, Arthur Quintino, Daniel Carvalho, Rafael Pomar, Daniel Carvalho, Dummy, Gustavo Elias, Rhyan Deulavux, Miguel Retzlafo
 
-Funções: 
-Programação:
-Sacola
-Gabriel
-ODan
+##Funções: 
+<p>Programação:<br>
+Sacola<br>
+Gabriel<br>
+ODan<br>
 
-Design:
-Rafamito
-Miguel
-ODan
-Hiro
-Art10
+Design:<br>
+Rafamito<br>
+Miguel<br>
+ODan<br>
+Hiro<br>
+Art10<br>
 
-História:
-Miguel
-Art10
-Hiro
+História:<br>
+Miguel<br>
+Art10<br>
+Hiro<br>
 
-Modelagem:
-ODan
+Modelagem:<br>
+ODan<br>
 
-Animação:
-ODan
+Animação:<br>
+ODan<br>
 
-SoudEffects:
-Dummy
+SoudEffects:<br>
+Dummy<br>
 
-Vfx: 
-Fé
+Vfx: <br>
+Fé<br>
 
-
-
-
-Beta Tester:
-Arthur Marmota
+Beta Tester:<br>
+Arthur Marmota<br>
+</p><br>
