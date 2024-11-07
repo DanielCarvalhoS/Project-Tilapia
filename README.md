@@ -1,4 +1,4 @@
-# Project-Tilapia
+# PROJECT TILÁPIA
 
 ![image](https://github.com/user-attachments/assets/5c805713-1a43-4fa3-83f6-08914b1b6259)
 
