@@ -20,11 +20,13 @@ Miguel<br>
 ODan<br>
 Hiro<br>
 Art10<br>
+Shye<br>
 
 ### História:<br>
 Miguel<br>
 Art10<br>
 Hiro<br>
+Shye<br>
 
 ### Modelagem:<br>
 ODan<br>
