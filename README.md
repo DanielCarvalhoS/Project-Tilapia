@@ -1,6 +1,7 @@
 # PROJECT TILÁPIA
 
-![image](https://github.com/user-attachments/assets/7e648d59-8047-4de1-95c0-93018e1ffd38)
+![image](https://github.com/user-attachments/assets/1b2f7551-3523-4095-9853-bede9016c39e)
+
 
 
 ## Descriçao 
