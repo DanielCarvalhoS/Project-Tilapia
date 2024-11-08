@@ -9,19 +9,19 @@
 >[!Important]
 >
 >Arthur Jose
-
+>
 >Arthur Quintino
-
+>
 >Daniel Carvalho
-
+>
 >Rafael Pomar
-
+>
 >Pablo Dummy
-
+>
 >Gustavo Elias
-
+>
 >Rhyan Correia
-
+>
 >Miguel Retzlaf
 
 ## Funções: 
