@@ -25,7 +25,8 @@
 >Miguel Retzlaf
 
 ## Funções: 
-![Inserir um título (2)](https://github.com/user-attachments/assets/11d34b31-63ad-41f8-83ad-98c93739f99e)
+![image](https://github.com/user-attachments/assets/15cafee7-a3cd-4424-9a38-ecbb06d17312)
+
 
 
 ### Beta Tester:<br>
