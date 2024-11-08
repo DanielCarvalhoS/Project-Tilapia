@@ -25,6 +25,7 @@
 >Miguel Retzlaf
 
 ## Funções: 
+![Inserir um título (2)](https://github.com/user-attachments/assets/11d34b31-63ad-41f8-83ad-98c93739f99e)
 
 
 ### Beta Tester:<br>
