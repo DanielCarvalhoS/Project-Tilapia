@@ -4,7 +4,9 @@
 
 
 ## Descriçao 
-O intuito desse repositorio é a logistica de troca de informações para o futuro desenvolvimento do projeto de nosso primeiro jogo: O projeto Tilapia
+O intuito desse repositorio é a logistica de troca de informações para o futuro desenvolvimento do projeto de nosso primeiro jogo: O projeto Tilapia. Esse projeto constitui em um RPG com ideias similares a de Mario Party, porém, com adições de gostos nossos.
+A gameplay será totalmente diferente em alguns quesitos, com a única continuidade do mapa e testes.
+
 
 ### Integrantes
 >[!Important]
