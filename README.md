@@ -5,22 +5,24 @@
 
 ## Descriçao: O intuito desse repositorio é a logistica de troca de informações para o futuro desenvolvimento do projeto de nosso primeiro jogo: O projeto Tilapia
 
-### Integrantes: 
-Arthur Jose, 
+### Integrantes
+>[!Important]
+>
+>Arthur Jose
 
-Arthur Quintino, 
+>Arthur Quintino
 
-Daniel Carvalho,
+>Daniel Carvalho
 
-Rafael Pomar,
+>Rafael Pomar
 
-Pablo Dummy, 
+>Pablo Dummy
 
-Gustavo Elias, 
+>Gustavo Elias
 
-Rhyan Correia, 
+>Rhyan Correia
 
-Miguel Retzlaf
+>Miguel Retzlaf
 
 ## Funções: 
 <p> 
