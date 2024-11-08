@@ -24,17 +24,7 @@
 >
 >Miguel Retzlaf
 
-## Funções: 
 ![image](https://github.com/user-attachments/assets/15cafee7-a3cd-4424-9a38-ecbb06d17312)
-
-
-
-### Beta Tester:<br>
-Arthur Marmota<br> ❤️ 
-
-![image](https://github.com/user-attachments/assets/99fb3ec6-069d-4ff0-ab6b-723143d0e98b)
-
-</p><br>
 
 
 
