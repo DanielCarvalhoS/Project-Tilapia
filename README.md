@@ -9,6 +9,8 @@ O intuito desse repositorio é a logistica de troca de informações para o futu
 A gameplay será totalmente diferente em alguns quesitos, com a única continuidade do mapa e testes.
 
 
+Link da Wiki: [Aqui(https://github.com/DanielCarvalhoS/Project-Tilapia/wiki)]
+
 ### Integrantes
 >[!Important]
 >
@@ -28,7 +30,7 @@ A gameplay será totalmente diferente em alguns quesitos, com a única continuid
 >
 >Miguel Retzlaf
 
-![image](https://github.com/user-attachments/assets/15cafee7-a3cd-4424-9a38-ecbb06d17312)
+
 
 
 
